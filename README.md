@@ -1,0 +1,2 @@
+# lotteryjs.github.io
+pages
